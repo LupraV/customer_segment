@@ -14,8 +14,8 @@ This repository contains the data analysis and Stata code used to explore the re
 3. Provide actionable insights to mitigate financial distress through policy and education.
 
 ## Software Used
-- **SAS**
-(SAS Viya and  SAS Miner)
+- **SAS Viya for Learners 4**
+- **SAS Miner 15.3**
 
 ## Data
 - The synthetic dataset is based on Australian HILDA survey data and includes:
