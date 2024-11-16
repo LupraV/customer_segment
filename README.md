@@ -13,9 +13,8 @@ This repository contains the data analysis and Stata code used to explore the re
 2. Examine the role of employment, homeownership, financial capability, and gambling behaviour in financial hardship.
 3. Provide actionable insights to mitigate financial distress through policy and education.
 
-## Software
-- **SAS Viya**
-- **SAS Miner**
+## Software Used
+- **SAS Viya** and **SAS Miner**
 
 ## Data
 - The synthetic dataset is based on Australian HILDA survey data and includes:
