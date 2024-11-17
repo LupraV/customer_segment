@@ -39,3 +39,5 @@ This repository contains the data analysis and Stata code used to explore the re
 ## Contact
 For queries, please contact **Luis Vieira**.
 
+## License
+This project is licensed under the [Apache License 2.0](LICENSE).
